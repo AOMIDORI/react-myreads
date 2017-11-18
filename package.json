@@ -1,8 +1,17 @@
 {
+  "name": "myreads",
+  "version": "1.0.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aomidori/react-myreads.git"
+  },
   "dependencies": {
     "prop-types": "^15.5.8",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-router-dom": "^4.2.2",
+    "sort-by": "^1.2.0"
   },
   "devDependencies": {
     "react-scripts": "0.9.5"
